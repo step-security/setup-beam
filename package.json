@@ -19,7 +19,7 @@
     "axios": "1.18.1",
     "csv-parse": "7.0.1",
     "semver": "7.7.4",
-    "smol-toml": "1.7.0"
+    "smol-toml": "1.7.1"
   },
   "devDependencies": {
     "@eslint/js": "10.0.1",
